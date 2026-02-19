@@ -1,0 +1,29 @@
+{
+  "name": "@toolcode/emoji-hash",
+  "version": "1.0.0",
+  "description": "Deterministic emoji fingerprints for debug logging. Turns any value into a memorable emoji string.",
+  "main": "index.js",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.mjs"
+  },
+  "scripts": {
+    "test": "bun test ./test.js"
+  },
+  "keywords": [
+    "emoji",
+    "hash",
+    "debug",
+    "logging",
+    "fingerprint",
+    "id",
+    "deterministic"
+  ],
+  "author": "Drunk Racoon",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.mjs",
+    "README.md"
+  ]
+}
