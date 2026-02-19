@@ -8,7 +8,8 @@
     "import": "./index.mjs"
   },
   "scripts": {
-    "test": "bun test ./test.js"
+    "test": "bun test ./test.js",
+    "pub": "npm publish --access public"
   },
   "keywords": [
     "emoji",
