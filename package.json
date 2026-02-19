@@ -1,6 +1,6 @@
 {
   "name": "@toolcode/emoji-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deterministic emoji fingerprints for debug logging. Turns any value into a memorable emoji string.",
   "main": "index.js",
   "exports": {
